@@ -11,7 +11,7 @@
 
 🚸┇انسخ رابط كيثاب السورس ↡
 
-https://github.com/islam3erty/islam.boter.git/islam.boter.git ;cd islam.boter;chmod +x ins;./ins
+https://github.com/islam3erty/islam.boter.git
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
